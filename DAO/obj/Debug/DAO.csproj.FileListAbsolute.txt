@@ -1,0 +1,65 @@
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\obj\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\DAO\obj\Debug\DAO.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\bin\Debug\Models.dll
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\obj\Debug\DAO.dll
+C:\Users\IT\Desktop\22.11\Lituk\Paint\DAO\obj\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\obj\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\DAO\obj\Debug\DAO.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\bin\Debug\Models.dll
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\obj\Debug\DAO.dll
+C:\Users\IT\Desktop\23.11\Lituk\Paint\DAO\obj\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\obj\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\DAO\obj\Debug\DAO.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\bin\Debug\Models.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\obj\Debug\DAO.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\DAO\obj\Debug\DAO.pdb
+F:\27.11\Lituk\Paint\DAO\bin\Debug\DAO.dll
+F:\27.11\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+F:\27.11\Lituk\Paint\DAO\bin\Debug\Models.dll
+F:\27.11\Lituk\Paint\DAO\bin\Debug\Models.pdb
+F:\27.11\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\27.11\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\27.11\Lituk\Paint\DAO\obj\Debug\DAO.dll
+F:\27.11\Lituk\Paint\DAO\obj\Debug\DAO.pdb
+E:\111\1\04.12-1\Lituk\Paint\DAO\bin\Debug\DAO.dll
+E:\111\1\04.12-1\Lituk\Paint\DAO\bin\Debug\DAO.pdb
+E:\111\1\04.12-1\Lituk\Paint\DAO\bin\Debug\Models.dll
+E:\111\1\04.12-1\Lituk\Paint\DAO\bin\Debug\Models.pdb
+E:\111\1\04.12-1\Lituk\Paint\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\111\1\04.12-1\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\111\1\04.12-1\Lituk\Paint\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\111\1\04.12-1\Lituk\Paint\DAO\obj\Debug\DAO.dll
+E:\111\1\04.12-1\Lituk\Paint\DAO\obj\Debug\DAO.pdb
