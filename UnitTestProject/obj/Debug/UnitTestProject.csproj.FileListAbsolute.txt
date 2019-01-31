@@ -1,0 +1,78 @@
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\BUS.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\BUS.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Models.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\BUS.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.pdb
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.pdb
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\BUS.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\DAO.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Models.dll
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\BUS.pdb
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\DAO.pdb
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Models.pdb
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\111\1\04.12-1\Lituk\Paint\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\BUS.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\DAO.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Models.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\BUS.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\DAO.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Models.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\UnitTestProject\obj\Debug\UnitTestProject.pdb

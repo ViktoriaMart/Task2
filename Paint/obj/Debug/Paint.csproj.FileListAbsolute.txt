@@ -1,0 +1,240 @@
+c:\users\it\source\repos\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\it\source\repos\Paint\Paint\bin\Debug\Paint.exe
+c:\users\it\source\repos\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\it\source\repos\Paint\Paint\obj\Debug\MainWindow.g.cs
+c:\users\it\source\repos\Paint\Paint\obj\Debug\App.g.cs
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+c:\users\it\source\repos\Paint\Paint\obj\Debug\MainWindow.baml
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint.g.resources
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint.exe
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Paint.pdb
+c:\users\it\source\repos\Paint\Paint\bin\Debug\BUS.dll
+c:\users\it\source\repos\Paint\Paint\bin\Debug\Models.dll
+c:\users\it\source\repos\Paint\Paint\bin\Debug\BUS.pdb
+c:\users\it\source\repos\Paint\Paint\bin\Debug\Models.pdb
+c:\users\it\source\repos\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Window1.g.cs
+c:\users\it\source\repos\Paint\Paint\obj\Debug\Window1.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Window1.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\22.11\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\BUS.dll
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\Models.dll
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\IT\Desktop\22.11\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Window1.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\23.11\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\BUS.dll
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\Models.dll
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\IT\Desktop\23.11\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\BUS.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\Models.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\DAO.dll
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\Models.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Window1.baml
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\KonTiK\Documents\Visual Studio 2017\Projects\26.11\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\BUS.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\Models.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\DAO.dll
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\Models.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Window1.baml
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\IT\Desktop\27.11\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+F:\27.11\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+F:\27.11\Lituk\Paint\Paint\bin\Debug\Paint.exe
+F:\27.11\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+F:\27.11\Lituk\Paint\Paint\bin\Debug\BUS.dll
+F:\27.11\Lituk\Paint\Paint\bin\Debug\Models.dll
+F:\27.11\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\27.11\Lituk\Paint\Paint\bin\Debug\DAO.dll
+F:\27.11\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+F:\27.11\Lituk\Paint\Paint\bin\Debug\Models.pdb
+F:\27.11\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+F:\27.11\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+F:\27.11\Lituk\Paint\Paint\obj\Debug\App.g.cs
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+F:\27.11\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Window1.baml
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint.exe
+F:\27.11\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\Paint.exe.config
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\Paint.exe
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\Paint.pdb
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\BUS.dll
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\Models.dll
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\DAO.dll
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\BUS.pdb
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\Models.pdb
+E:\111\1\04.12-1\Lituk\Paint\Paint\bin\Debug\DAO.pdb
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\MainWindow.g.cs
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Window1.g.cs
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\App.g.cs
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\MainWindow.baml
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Window1.baml
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.g.resources
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.exe
+E:\111\1\04.12-1\Lituk\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\Paint.exe.config
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\Paint.exe
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\Paint.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\BUS.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\Models.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\DAO.dll
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\BUS.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\Models.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\bin\Debug\DAO.pdb
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Window1.g.cs
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\App.g.cs
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\MainWindow.baml
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Window1.baml
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.g.resources
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.csproj.CopyComplete
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.exe
+C:\Users\Богдан\Desktop\1.5к\2завдання\Paint\obj\Debug\Paint.pdb

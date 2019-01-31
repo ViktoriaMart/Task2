@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfMyShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MyShape xsi:type="MyPolygon">
+    <Name>Pentagon_1</Name>
+    <IsChoose>false</IsChoose>
+    <Color>
+      <A>255</A>
+      <R>216</R>
+      <G>27</G>
+      <B>31</B>
+      <ScA>1</ScA>
+      <ScR>0.6866853</ScR>
+      <ScG>0.0109600937</ScG>
+      <ScB>0.0137020834</ScB>
+    </Color>
+    <Margin>
+      <X>0</X>
+      <Y>0</Y>
+    </Margin>
+    <PointList>
+      <Point>
+        <X>262.40000000000003</X>
+        <Y>109.4</Y>
+      </Point>
+      <Point>
+        <X>484</X>
+        <Y>270.2</Y>
+      </Point>
+      <Point>
+        <X>325.6</X>
+        <Y>315</Y>
+      </Point>
+      <Point>
+        <X>212.8</X>
+        <Y>235.8</Y>
+      </Point>
+      <Point>
+        <X>222.4</X>
+        <Y>176.60000000000002</Y>
+      </Point>
+    </PointList>
+  </MyShape>
+</ArrayOfMyShape>
